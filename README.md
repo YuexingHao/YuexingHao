@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YuexingHao
+- 👋 Hi, I’m @YuexingHao, a master student at Tufts University
 - 👀 I’m interested in Machine Learning, Data Analytics
-- 🌱 I’m currently learning Java and Python
+- 🌱 My personal website https://1135100136.wixsite.com/jennyhao
 - 💞️ I’m looking to collaborate on user-oriented framework
 - 📫 How to reach me yhao02@tufts.edu
 
