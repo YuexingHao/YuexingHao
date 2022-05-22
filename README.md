@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuexingHao, a research fellow at Cornell University
-- 👀 I’m interested in Machine Learning, Data Analytics
-- 🌱 My personal website https://1135100136.wixsite.com/jennyhao
+- 👀 I’m interested in Human Computer Interaction, Health Intelligence
+- 🌱 My personal website https://1135100136.wixsite.com/yuexinghao
 - 💞️ I’m looking to collaborate on user-oriented framework
 - 📫 How to reach me yh727@cornell.edu
 
