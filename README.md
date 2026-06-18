@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @YuexingHao, a Ph.D. research fellow at MIT and Cornell. I interned at Mayo Clinic, Google Research, and Scale AI. 
+- 👋 Hi, I’m @YuexingHao, a PostDoc at MIT EECS. I interned at Mayo Clinic, Google Research, and Scale AI.
+- I received my Ph.D. from Cornell, master from Tufts, and undergrad from Rutgers.
 - 👀 I’m interested in Human Computer Interaction, Health Intelligence
 - 🌱 My personal website https://yuexinghao.github.io/Yuexing-Hao/
 - 💞️ I’m looking to design, develop, and evaluate LLMs. 
